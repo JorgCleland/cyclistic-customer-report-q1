@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/cyclistic_logo.png" alt="Cyclistic Logo" width="200"/>
+</p>
+
 # Cyclistic Bike-Share Analysis  
 ### Google Data Analytics Capstone Project  
 **By Spencer Cleland**

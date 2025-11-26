@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/cyclistic_logo.png" alt="Cyclistic Logo" width="200"/>
+  <a href="./cyclistic_customer_report_q1.pdf">
+    <img src="./assets/cyclistic_logo.png" alt="Cyclistic Logo" width="200"/>
+  </a>
 </p>
 
 # Cyclistic Bike-Share Analysis  
